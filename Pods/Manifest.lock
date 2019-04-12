@@ -1,0 +1,25 @@
+PODS:
+  - CZCategory (0.0.1):
+    - CZCategory/CZCategory (= 0.0.1)
+  - CZCategory/CZCategory (0.0.1)
+  - CZConfig (0.0.1):
+    - CZConfig/CZConfig (= 0.0.1)
+  - CZConfig/CZConfig (0.0.1)
+
+DEPENDENCIES:
+  - CZCategory (from `~/Desktop/Project/iOS/iOS-CZCategory/CZCategory.podspec`)
+  - CZConfig (from `~/Desktop/Project/iOS/iOS-CZConfig/CZConfig.podspec`)
+
+EXTERNAL SOURCES:
+  CZCategory:
+    :path: "~/Desktop/Project/iOS/iOS-CZCategory/CZCategory.podspec"
+  CZConfig:
+    :path: "~/Desktop/Project/iOS/iOS-CZConfig/CZConfig.podspec"
+
+SPEC CHECKSUMS:
+  CZCategory: d128eb2dd88b6a5a6e279bd95ae6e3ebbdba78e6
+  CZConfig: 67d252a706e6dd05cf0d4493c90d4eeb840d58de
+
+PODFILE CHECKSUM: 63fa60d3669dcf5513bee63f34e4fc685b8ea91e
+
+COCOAPODS: 1.5.3

@@ -7,9 +7,9 @@
 //
 
 #import "CZToast.h"
-#import <CZCategory/UIView+CZCategory.h>
-#import <CZCategory/NSString+CZCategory.h>
-#import <CZCategory/NSObject+CZCategory.h>
+#import <CZCategorys/UIView+CZCategory.h>
+#import <CZCategorys/NSString+CZCategory.h>
+#import <CZCategorys/NSObject+CZCategory.h>
 #import <CZConfig/CZConfig.h>
 
 
